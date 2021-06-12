@@ -16,4 +16,5 @@ cp .aws/services.yml ./web/sites/default
 if [[ ! -d './web/sites/default/files' ]] 
 then
     mkdir ./web/sites/default/files
+    sudo chmod 777 ./web/sites/default/files
 fi
