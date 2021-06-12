@@ -51,3 +51,4 @@ web/web.config
 web/sites/default/default.services.yml
 web/sites/default/default.settings.php
 node_modules
+/.editorconfig
